@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>▷ Couvreur zingueur et toiture zinc à Paris et région parisienne | 01 42 62 17 01 ☎️</title>
+  <title>▷ Couvreur zingueur et toiture zinc à Paris et région parisienne | 0619803183 ☎️</title>
   <meta name="description" content="Trouver votre entreprise en travaux de couverture et charpente à Paris. Nous avons plus de 25 ans d'expérience dans le bâtiment et mettons tout en œuvre pour votre satisfaction."/>
   <meta property="og:locale" content="fr_FR"/>
   <meta property="og:description" content="Trouver votre entreprise en travaux de couverture et charpente à Paris. Nous avons plus de 25 ans d'expérience dans le bâtiment et mettons tout en œuvre pour votre satisfaction.">
-  <meta property="og:title" content="▷ Couvreur zingueur et toiture zinc en Île-de-France | 01 42 62 17 01 ☎️">
+  <meta property="og:title" content="▷ Couvreur zingueur et toiture zinc en Île-de-France | 0619803183 ☎️">
   <meta property="og:type" content="siteweb"/>
-  <meta property="og:url" content="http://artizinc-paris.fr/"/>
+  <meta property="og:url" content="http://igcouverture-paris.fr/"/>
   <meta property="og:image" content="assets/img/ogimage.jpg"/>
   <meta property="og:site_name" content="Entreprise de bâtiment à Paris 20"/>
   <link rel="shortcut icon" type="image/ico" href="assets/img/favicon.ico"/>
@@ -63,7 +63,7 @@
             <a class="nav-link text-uppercase" href="contact.php">Contact</a>
           </li>
           <li class="nav-item pl-md-2 pr-md-2">
-            <a href="tel:01 42 62 17 01"><button class="bttn-simple bttn-md btn-1">01 42 62 17 01</button></a>
+            <a href="tel:0618703183"><button class="bttn-simple bttn-md btn-1">0618703183</button></a>
           </li>
 
         </ul>
@@ -79,7 +79,7 @@
         <div class="col-md-6">
           <h1 class="w-font ptr-50">Couverture, charpente et zinguerie à Paris, dans le 20e arrondissement</span> </h1>
           <p class="font-italic w-font">Vos grand projets méritent le plus grand des savoirs-faires</p>
-          <a href="tel:01 42 62 17 01"><button class="bttn-simple btn-1 bttn-md mt-4 ml-1 mr-1">Contactez votre artisan</button></a>
+          <a href="tel:0618703183"><button class="bttn-simple btn-1 bttn-md mt-4 ml-1 mr-1">Contactez votre artisan</button></a>
           <a href="nos-realisations.php"><button class="bttn-simple btn-2 bttn-md mt-4 ml-1 mr-1">Nos réalisations</button></a>
 
         </div>
@@ -113,7 +113,7 @@
           <h2 class="font-weight-normal mt-2 wow animate__animated animate__zoomInDown wow animate__animated animate__zoomInDown">Artizinc un savoir faire à votre service depuis 2002</h2>
           <hr align=left class="hr-1">
           <p class="mt-2">Entreprise de couverture basée à Paris spécialisée dans la réfection des toitures parisiennes.</p>
-          <p>Monsieur Procino Nicolas met plus de 25 ans d’expérience à votre service dans le bâtiment & tout particulièrement dans les travaux de couverture & charpente.</p>
+          <p>Monsieur Cernomaz Igor met plus de 25 ans d’expérience à votre service dans le bâtiment & tout particulièrement dans les travaux de couverture & charpente.</p>
           <p>Artizinc réalise les travaux pour les syndics de copropriété, les particuliers & pour les entreprises du BTP.</p>
           <img width=100px class="img-fluid" src="assets/img/qualification.png" alt="">
         </div>
@@ -204,7 +204,7 @@
         <div class="col-md-6">
           <h2 class="font-weight-normal mt-2 wow animate__animated animate__zoomInDown  wow animate__animated animate__zoomInDown">Vous êtes architecte, syndic de copropriété ou particulier ?</h2>
           <hr align=left class="hr-1">
-          <p>Artizinc vous accompagne dans l’étude de votre projet & réalise vos travaux avec la plus grande attention & le plus grand soin. Un interlocuteur unique assure le suivi et la qualité du travail réalisé. Artizinc vous aide dans le bon choix des matériaux d’isolation & de couverture appropriés à votre habitat.</p>
+          <p>Ig Couverture vous accompagne dans l’étude de votre projet & réalise vos travaux avec la plus grande attention & le plus grand soin. Un interlocuteur unique assure le suivi et la qualité du travail réalisé. Ig Couverture vous aide dans le bon choix des matériaux d’isolation & de couverture appropriés à votre habitat.</p>
         </div>
       </div>
 
@@ -218,7 +218,7 @@
         <div class="col-md-12 row-cta">
           <h3 class="w-font text-center ">Un projet une demande de devis ?</h3>
           <p class="w-font text-center">Contactez-nous dès aujourd'hui</p>
-          <a href="tel:0142621701"><button class="bttn-simple btn-1 bttn-md mt-2 ml-1 mr-1">Contactez votre artisan</button></a>
+          <a href="tel:0618703183"><button class="bttn-simple btn-1 bttn-md mt-2 ml-1 mr-1">Contactez votre artisan</button></a>
           <a href="nos-realisations.php"><button class="bttn-simple btn-2 bttn-md mt-2 ml-1 mr-1">Nos réalisations</button></a>
         </div>
       </div>
@@ -269,7 +269,7 @@
           </div>
         </div>
         <div class="col-md-12 mt-2">
-          <a href="tel:01 42 62 17 01"><button class="bttn-simple btn-1 bttn-md mt-2 ml-1 mr-1 wow animate__animated animate__pulse" data-wow-duration="1.5s">Nous contacter</button></a>
+          <a href="tel:0618703183"><button class="bttn-simple btn-1 bttn-md mt-2 ml-1 mr-1 wow animate__animated animate__pulse" data-wow-duration="1.5s">Nous contacter</button></a>
         </div>
       </div>
 
@@ -321,10 +321,10 @@
         <div class="col-sm-3 col-md-3 item">
           <h3 class="font-white">Coordonnées postales</h3>
           <ul>
-            <li class="nav-link-2 bold">Artizinc</li>
-            <li class="nav-link-2">Tél : 01 42 62 17 01</li>
-            <li class="nav-link-2">11 Rue Ernest Lefèvre</li>
-            <li class="nav-link-2">75020 Paris</li>
+            <li class="nav-link-2 bold">Ig Couverture</li>
+            <li class="nav-link-2">Tél : 0618703183</li>
+            <li class="nav-link-2">6 avenue de bellevue</li>
+            <li class="nav-link-2">92290 Chatenay Malabry</li>
           </ul>
         </div>
         <div class="col-sm-3 col-md-3 item">
